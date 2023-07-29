@@ -1,0 +1,2 @@
+# GenAI
+For personal Projects
